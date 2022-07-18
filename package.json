@@ -1,0 +1,12 @@
+{
+  "name": "f.eli.pe",
+  "version": "1.0.0",
+  "description": "My Personal Portfolio",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "build": "npx tailwindcss -i ./index.css -o tailwind.css --watch"
+  },
+  "keywords": [],
+  "author": "Felipe Castillo",
+  "license": "ISC"
+}
